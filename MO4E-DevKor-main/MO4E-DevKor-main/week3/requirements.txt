@@ -1,0 +1,14 @@
+pykrx
+pandas
+numpy
+matplotlib
+math
+time
+Finance-DataReader
+OpenDartReader
+mpl-finance
+requests
+BeautifulSoup
+datetime
+os
+scikit-learn
